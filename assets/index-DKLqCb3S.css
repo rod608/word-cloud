@@ -1,0 +1,1 @@
+*{margin:0;box-sizing:border-box}.parent{display:flex;flex-direction:column;align-items:center;justify-content:start;row-gap:50px;padding:20px}.child1{border:1px solid rgb(255,255,255)}.child2{background-color:#e4e4e4}
